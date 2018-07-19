@@ -14,6 +14,6 @@ http://blog.kaggle.com/2017/09/20/data-notes-back-to-school-tutorial-kernels-dat
 http://blog.kaggle.com/2017/06/29/2017-data-science-bowl-predicting-lung-cancer-2nd-place-solution-write-up-daniel-hammack-and-julian-de-wit/
 http://blog.kaggle.com/2017/05/16/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath/
 
-###Fish Monitoring
+### Fish Monitoring
 http://blog.kaggle.com/2017/07/07/the-nature-conservancy-fisheries-monitoring-competition-1st-place-winners-interview-team-towards-robust-optimal-learning-of-learning/
 
